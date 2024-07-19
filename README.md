@@ -20,7 +20,6 @@ npx create-basic-remix-express-app@latest
 # Development
 
 ## Prerequisites
-[Duck Duck Go](https://duckduckgo.com)
 
 [Node.js](https://nodejs.org/en) (version 14 or later)
 
