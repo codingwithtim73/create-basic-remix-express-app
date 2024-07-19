@@ -17,14 +17,19 @@ You can use this CLI tool via `npx` without needing to install it globally.
 ```sh
 npx create-basic-remix-express-app@latest
 ```
-#Development
+# Development
 
-##Prerequisites
-Node.js (version 14 or later)
-npm
-##Getting Started
+## Prerequisites
+[Duck Duck Go](https://duckduckgo.com)
+
+[Node.js](https://nodejs.org/en) (version 14 or later)
+
+[npm](https://www.npmjs.com/)
+
+## Getting Started
 Clone the repository:
 ```sh
 git clone https://github.com/codingwithtim73/remix_template.git
 cd remix_template
+```
 
