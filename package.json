@@ -1,0 +1,26 @@
+{
+  "name": "create-basic-remix-express-app",
+  "version": "3.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-basic-remix-express-app": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remix",
+    "express",
+    "cli",
+    "scaffolding"
+  ],
+  "author": "Timothy Ramseyer",
+  "license": "ISC",
+  "description": "A basic Remix Express app scaffolder",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^10.0.3",
+    "ora": "^8.0.1"
+  }
+}
